@@ -66,7 +66,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-[github-com-SaiHrishi4243-SGD-Regressor-for-Multivariate-Linear-Regression-tree-m....pdf](https://github.com/user-attachments/files/19884219/github-com-SaiHrishi4243-SGD-Regressor-for-Multivariate-Linear-Regression-tree-m.pdf)
+![Screenshot 2025-04-24 093733](https://github.com/user-attachments/assets/5985e4ba-30fe-4b01-ae79-aafb29ca77ef)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
